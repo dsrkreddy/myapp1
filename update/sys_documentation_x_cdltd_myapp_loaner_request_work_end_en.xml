@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="work_end" label="End Date" language="en" table="x_cdltd_myapp_loaner_request">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>work_end</element>
+            <help/>
+            <hint/>
+            <label>End Date</label>
+            <language>en</language>
+            <name>x_cdltd_myapp_loaner_request</name>
+            <plural>End Dates</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-10 14:22:30</sys_created_on>
+            <sys_id>2afe5b35e18923007f4421c851861d8f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>End Date</sys_name>
+            <sys_package display_value="Loaner Request" source="x_cdltd_myapp">a56f66e9e14523007f4421c851861d30</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Loaner Request">a56f66e9e14523007f4421c851861d30</sys_scope>
+            <sys_update_name>sys_documentation_x_cdltd_myapp_loaner_request_work_end_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-10 14:22:30</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

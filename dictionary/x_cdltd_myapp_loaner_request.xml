@@ -1,3 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="Loaner Request" max_length="40" name="x_cdltd_myapp_loaner_request" type="collection"/>
+    <element extends="task" label="Loaner Request" max_length="40" name="x_cdltd_myapp_loaner_request" type="collection">
+        <element label="Depot" max_length="100" name="depot" type="string"/>
+        <element label="Other" max_length="100" name="other" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Depot" max_length="40" name="u_string_2" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Other" max_length="40" name="u_string_3" type="string"/>
+    </element>
 </database>
