@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>97d8a339e18923007f4421c851861d10</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="x_cdltd_myapp_loaner_request">
+    <x_cdltd_myapp_loaner_request action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <activity_due/>
+        <additional_assignee_list/>
+        <approval>not requested</approval>
+        <approval_history/>
+        <approval_set/>
+        <assigned_to/>
+        <assignment_group/>
+        <business_duration/>
+        <business_service/>
+        <calendar_duration/>
+        <close_notes/>
+        <closed_at/>
+        <closed_by/>
+        <cmdb_ci display_value="Apple - MacBook Pro 15&quot; for Technical Staff">81f45136c0a8018b41d3e71bf532fec5</cmdb_ci>
+        <comments/>
+        <comments_and_work_notes/>
+        <company/>
+        <contact_type/>
+        <correlation_display/>
+        <correlation_id/>
+        <delivery_plan/>
+        <delivery_task/>
+        <depot/>
+        <description>desc</description>
+        <due_date/>
+        <escalation>0</escalation>
+        <expected_start/>
+        <follow_up/>
+        <group_list/>
+        <impact>3</impact>
+        <knowledge>false</knowledge>
+        <location display_value="3260 Jay Street, Santa Clara, CA">6808184aeb211100420124e05206fe12</location>
+        <made_sla>true</made_sla>
+        <number>LNR001033</number>
+        <opened_at>2018-10-10 15:05:43</opened_at>
+        <opened_by display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</opened_by>
+        <order/>
+        <other/>
+        <parent/>
+        <priority>4</priority>
+        <reassignment_count>0</reassignment_count>
+        <rejection_goto/>
+        <short_description>desc</short_description>
+        <sla_due/>
+        <state>1</state>
+        <sys_class_name>x_cdltd_myapp_loaner_request</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-10 15:21:53</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>97d8a339e18923007f4421c851861d10</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-10 15:21:53</sys_updated_on>
+        <time_worked/>
+        <u_string_2>other</u_string_2>
+        <u_string_3>other</u_string_3>
+        <upon_approval>proceed</upon_approval>
+        <upon_reject>cancel</upon_reject>
+        <urgency>3</urgency>
+        <user_input/>
+        <variables/>
+        <watch_list/>
+        <wf_activity/>
+        <work_end>2018-10-17 14:29:56</work_end>
+        <work_notes/>
+        <work_notes_list/>
+        <work_start>2018-10-10 14:29:48</work_start>
+    </x_cdltd_myapp_loaner_request>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-10 15:22:56</sys_created_on>
+        <sys_id>b7cc6379e18923007f4421c851861d84</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>LNR001033</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_myapp">a56f66e9e14523007f4421c851861d30</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">a56f66e9e14523007f4421c851861d30</sys_scope>
+        <sys_update_name>sys_metadata_link_b7cc6379e18923007f4421c851861d84</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-10 15:22:56</sys_updated_on>
+        <tablename>x_cdltd_myapp_loaner_request</tablename>
+    </sys_metadata_link>
+</record_update>
